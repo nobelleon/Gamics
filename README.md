@@ -1,5 +1,5 @@
 # Gamics
-
+ 
 ## Output
 https://github.com/user-attachments/assets/55f30e2c-4d45-4458-a0dd-a08db5b6aac2
 
